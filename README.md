@@ -1,14 +1,14 @@
 #Proyecto limpiadora de verduras en seco 
 
 ## Descripcion
-fwagrgeadgaerf
+ALv
 ## Componentes
 -ESP32
 -STM23
 ## Requerimientos
-sodvcskhdbcsdhbcds
+Algunos
 ## Librerias
-scajsgcvasgvcasc
+estas
 
 
 
